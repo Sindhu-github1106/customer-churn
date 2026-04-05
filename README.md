@@ -1,6 +1,6 @@
 # Customer Churn Prediction System
 
-**Live App:** https://customer-churn-prediction.streamlit.app
+**Live App:** https://customer-churn-predictio.streamlit.app
 
 An end-to-end machine learning system for predicting customer churn, combining model development, evaluation, threshold optimization, and explainability. The project is deployed as an interactive web application using Streamlit.
 
