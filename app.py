@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 import joblib
 import shap
+import matplotlib
+
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 
